@@ -3,6 +3,10 @@
 
 Welcome to Drift Station, currently this codebase is not ready for prime time, but hopefully we will have players playing soon.
 
+# Warning this repo is no longer updated
+We have moved to https://github.com/Drift-station-13/Drift_station_13
+
+
 ## LICENSE
 
 All code after [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) is licensed under [GNU AGPL v3](http://www.gnu.org/licenses/agpl-3.0.html).
